@@ -1,0 +1,3 @@
+{"http_status":200,"ip":"127.0.0.1","level":"info","method":"POST","msg":"access","time":"2022-04-16 22:51:44","total_time":"737.8µs","uri":"/apis/v1/hosts/List"}
+{"http_status":200,"ip":"127.0.0.1","level":"info","method":"POST","msg":"access","time":"2022-04-16 22:51:44","total_time":"    0s","uri":"/apis/v1/hosts/List"}
+{"http_status":200,"ip":"127.0.0.1","level":"info","method":"GET","msg":"access","time":"2022-04-16 22:54:11","total_time":" 918µs","uri":"/apis/v1/ping"}
